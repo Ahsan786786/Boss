@@ -26,7 +26,7 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U
 
 def keluar():
 
-	
+	Def keluar
 
     w = 'ahtdzjc'
 
